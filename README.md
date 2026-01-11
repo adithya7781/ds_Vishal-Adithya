@@ -51,4 +51,4 @@ Link - https://drive.google.com/file/d/1BFIeI_y5qmMl1fVHWkXSyr3SqEwd58m9/view?us
 - `csv_files/sample_dataset.csv` – Sample processed data
 
 Open `notebook_1.ipynb` in Google Colab and ensure Drive is mounted.  
-All paths point to `/content/drive/MyDrive/ds_vishal/`.
+All paths point to `/content/drive/MyDrive/ds_Vishal Adithya/`.
